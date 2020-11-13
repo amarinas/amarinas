@@ -1,8 +1,8 @@
 ### <h2>I'm Ali M!
   </br>
 
-<img align="left"  src="https://media.giphy.com/media/hpF9R9M1PHN5e5liSx/giphy.gif" alt="Ali M" width="600" height="150"/> &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;
-<img align="" src="https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif" width="100" height="200"/>
+<img align="left"  src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="Ali M" width="300" height="150"/> &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;
+<img align="" src="https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif" width="200" height="200"/>
 </br></br></br>
 ### Here are some ideas to get you started:</br>
 - 🔭 I’m currently more into the **React/Front-end/Full Stack**
