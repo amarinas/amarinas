@@ -4,11 +4,11 @@
 <img align="left"  src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" alt="Ali M" width="300" height="150"/> &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;
 <img align="" src="https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif" width="200" height="200"/>
 </br></br></br>
-### Here are some ideas to get you started:</br>
+### Here are some things I'm working on:</br>
 - 🔭 I’m currently more into the **React/Front-end/Full Stack**
-- 🌱 I’m currently learning **Open Source Contribution.**
+- 🌱 I’m currently learning **Everything**
 - 👯 I’m looking to collaborate on: **Open Source / BlockChain**
-- 🤔 I’m looking for help with **again Open Source. This is really fun.**
+- 🤔 I’m looking for help with **AWS**
 - 💬 Ask me about **Anything**
 - ⚡ Fun fact: **Dr. Who Rules!**
 
