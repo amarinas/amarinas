@@ -1,5 +1,4 @@
-
-Here are some ideas to get you started:
+Here is what I'm working on!
 
 - 🔭 I’m currently working on ...React/FrontEnd/Full Stack
 - 🌱 I’m currently learning ...React
