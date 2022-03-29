@@ -2,7 +2,7 @@
   </br>
 
 <img align="left"  src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" alt="Ali M" width="300" height="150"/> &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;
-<img align="right" src="https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif" width="200" height="200"/>
+<img align="center" src="https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif" width="200" height="200"/>
 
 
 </br></br></br>
