@@ -5,7 +5,7 @@
 <img align="" src="https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif" width="200" height="200"/>
 </br></br></br>
 ### Here are some things I'm working on:</br>
-- 🔭 I’m currently more into the **React/Front-end/Full Stack**
+- 🔭 I’m currently more into the **React/Front-end/Full Stack/Software QA Automation**
 - 🌱 I’m currently learning **Everything**
 - 👯 I’m looking to collaborate on: **Open Source / BlockChain**
 - 🤔 I’m looking for help with **AWS**
