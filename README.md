@@ -2,8 +2,9 @@
   </br>
 
 <img align="left"  src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" alt="Ali M" width="300" height="150"/> &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;
-<img align="" src="https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif" width="200" height="200"/>
-<img src="https://giphy.com/embed/FcqKy4Kj7XOK0hCW4g" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/cat-matrix-catrix-FcqKy4Kj7XOK0hCW4g">via GIPHY</a></p>
+<img align="center" src="https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif" width="200" height="200"/>
+<iframe src="https://giphy.com/embed/HCkbgKLdLWq3OCV8YM" width="480" height="390" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/dead-yumipika-rm-rf-HCkbgKLdLWq3OCV8YM">via GIPHY</a></p>
+
 </br></br></br>
 ### Here are some things I'm working on:</br>
 - 🔭 I’m currently more into the **React/Front-end/Full Stack/Software QA Automation**
