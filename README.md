@@ -8,7 +8,7 @@
 </br></br></br>
 ### Here are some things I'm working on:</br>
 - 🔭 I’m currently more into the **React/Front-end/Full Stack/Software QA Automation**
-- 🌱 I’m currently learning **Everything**
+- 🌱 I’m currently learning C# and .NET
 - 👯 I’m looking to collaborate on: **Open Source / BlockChain**
 - 🤔 I’m looking for help with **AWS**
 - 💬 Ask me about **Anything**
